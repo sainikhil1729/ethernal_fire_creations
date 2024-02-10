@@ -16,13 +16,13 @@ eternal_fire_creations Bot Multi Device is a automated whatsapp bot created by <
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/sainikhil1729/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/sainikhil1729/ethernal_fire_creations/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD8?color=blue&style=flat-square"></a>
-<a href="https://github.com/sainikhil1729/ethernal_fire_creations/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD8?color=red&style=flat-square"></a>
-<a href="https://github.com/sainikhil1729/ethernal_fire_creations/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD8?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/sainikhil1729/ethernal_fire_creations"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/sainikhil1729/ethernal_fire_creations/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD8?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD8&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/sainikhil1729/followers"><img title="Followers" src="https://img.shields.io/github/followers/sainikhil1729?color=red&style=flat-square"></a>
+<a href="https://github.com/sainikhil1729/ethernal_fire_creations/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sainikhil1729/ethernal_fire_creations?color=blue&style=flat-square"></a>
+<a href="https://github.com/sainikhil1729/ethernal_fire_creations/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sainikhil1729/ethernal_fire_creations?color=red&style=flat-square"></a>
+<a href="https://github.com/sainikhil1729/ethernal_fire_creations/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/sainikhil1729/ethernal_fire_creations?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/sainikhil1729/ethernal_fire_creations"><img title="Open Source" src="https://img.shields.io/badge/sainikhil1729%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/sainikhil1729/ethernal_fire_creations/"><img title="Size" src="https://img.shields.io/github/repo-size/sainikhil1729/ethernal_fire_creations?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsainikhil1729%2Fethernal_fire_creations&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/sainikhil1729/ethernal_fire_creations/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
