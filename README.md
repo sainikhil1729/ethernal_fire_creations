@@ -2,8 +2,7 @@
 
 <h1 align="center">eternal_fire_creations<br></h1>
 <p align="center">
-<img src="https://ibb.co/4JGJ7bC" width="540" height="280" />
-</p>
+<img src="<a href="https://ibb.co/4JGJ7bC"><img src="https://i.ibb.co/Bwxwthv/eternal-fire-creations-1400x1400-V1.png" alt="eternal-fire-creations-1400x1400-V1" border="0"></a>
 
 <p align="center">
 eternal_fire_creations Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/sainikhil1729" target="_blank">nikhil</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
