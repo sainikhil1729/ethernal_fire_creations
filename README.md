@@ -51,7 +51,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe.
 - FORK THE REPOSITORY [Here](https://github.com/sainikhil1729/ethernal_fire_creations/fork)
 
 ## `Scan QR Code For Session`
-[![ethernal_fire_creations](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Auth-Session-Generator?v=1)
+[![ethernal_fire_creations](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@sainikhil171120/ethernalfirecreations-Bot-Multi-Auth-Session-Generator)
 
 ## ` BUILDPACKS`
 
