@@ -39,24 +39,19 @@ eternal_fire_creations Bot Multi Device is a automated whatsapp bot created by <
 
 ## ```Donate Me```
 
-- [`FamPay`](https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg)
+- [`phonepay`](9505579643)
 
 <p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
+Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe.
 </p>
 
-## ```Bot Support Group Chats```
-
-- [`1st GC`](https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH)
-- [`2nd GC`](https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue)
-- [`3rd GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q)
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD8/fork)
+- FORK THE REPOSITORY [Here](https://github.com/sainikhil1729/ethernal_fire_creations/fork)
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Auth-Session-Generator?v=1)
+[![ethernal_fire_creations](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Auth-Session-Generator?v=1)
 
 ## ` BUILDPACKS`
 
@@ -65,7 +60,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD8/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sainikhil1729/ethernal_fire_creations/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -76,7 +71,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/DGXeon/CheemsBot-MD8.git
+git clone https://github.com/sainikhil1729/ethernal_fire_creations.git
 cd CheemsBot-MD8
 
 npm start
@@ -93,7 +88,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD8
+git clone https://github.com/sainikhil1729/ethernal_fire_creations
 cd CheemsBot-MD8
 yarn install
 npm start
@@ -106,7 +101,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD8
+git clone https://github.com/sainikhil1729/ethernal_fire_creations
 cd CheemsBot-MD8
 npm start
 ```
